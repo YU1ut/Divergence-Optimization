@@ -1,3 +1,6 @@
+"""
+Some functions has been copied from https://github.com/VisionLearningGroup/DANCE
+"""
 import torch
 import torch.nn.functional as F
 

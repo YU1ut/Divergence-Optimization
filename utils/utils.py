@@ -1,3 +1,6 @@
+"""
+Some functions has been copied from https://github.com/VisionLearningGroup/DANCE and https://github.com/bhanML/Co-teaching
+"""
 from models.basenet import *
 import torch
 import numpy as np

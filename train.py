@@ -1,3 +1,6 @@
+"""
+Parts of this script has been copied from https://github.com/VisionLearningGroup/DANCE
+"""
 from __future__ import print_function
 import yaml
 import easydict

@@ -1,3 +1,6 @@
+"""
+This script is a copy from https://github.com/VisionLearningGroup/DANCE
+"""
 
 def inv_lr_scheduler(param_lr, optimizer, iter_num, gamma=10, power=0.75, init_lr=0.001,weight_decay=0.0005, max_iter=10000):
     #10000

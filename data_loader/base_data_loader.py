@@ -1,4 +1,6 @@
-
+"""
+This script is a copy from https://github.com/VisionLearningGroup/DANCE
+"""
 class BaseDataLoader():
     def __init__(self):
         pass

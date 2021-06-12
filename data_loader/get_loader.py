@@ -1,3 +1,6 @@
+"""
+Parts of this script has been copied from https://github.com/VisionLearningGroup/DANCE
+"""
 from .mydataset import ImageFolder
 from collections import Counter
 import os

@@ -1,3 +1,6 @@
+'''
+This script is a copy from https://github.com/bearpaw/pytorch-classification
+'''
 # A simple torch style logger
 # (C) Wei YANG 2017
 from __future__ import absolute_import

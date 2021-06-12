@@ -1,3 +1,6 @@
+"""
+This script is a copy from https://github.com/VisionLearningGroup/DANCE
+"""
 import torch.utils.data as data
 from PIL import Image
 import os

@@ -1,9 +1,10 @@
+"""
+Parts of this script has been copied from https://github.com/VisionLearningGroup/DANCE
+"""
 from torchvision import models
-import torch
 import torch.nn.functional as F
 import torch.nn as nn
 from torch.autograd import Function, Variable
-
 
 
 class GradReverse(Function):
